@@ -1,0 +1,75 @@
+---------------------------------------------------------------------------
+PROBLEM 1 
+
+Calculate the velocity of an artificial satellite orbiting the Earth in a
+circular orbit at an altitude of 200 km above the Earth's surface.
+
+---------------------------------------------------------------------------
+PROBLEM 2
+
+Calculate the period of revolution for the satellite in problem 1.
+
+---------------------------------------------------------------------------
+PROBLEM 3 
+
+Calculate the radius of orbit for a Earth satellite in a geosynchronous
+orbit, where the Earth's rotational period is 86,164.1 seconds.
+
+---------------------------------------------------------------------------
+PROBLEM 4
+
+An artificial Earth satellite is in an elliptical orbit which brings it to
+an altitude of 250 km at perigee and out to an altitude of 500 km at apogee.
+Calculate the velocity of the satellite at both perigee and apogee.
+
+---------------------------------------------------------------------------
+PROBLEM 5
+
+A satellite in Earth orbit passes through its perigee point at an altitude
+of 200 km above the Earth's surface and at a velocity of 7,850 m/s.
+Calculate the apogee altitude of the satellite.
+
+---------------------------------------------------------------------------
+PROBLEM 6 
+
+Calculate the eccentricity of the orbit for the satellite in problem 5.
+
+---------------------------------------------------------------------------
+PROBLEM 7
+
+A satellite in Earth orbit has a semi-major axis of 6,700 km and an
+eccentricity of 0.01.  Calculate the satellite's altitude at both perigee
+and apogee.
+
+---------------------------------------------------------------------------
+PROBLEM 8
+
+A satellite is launched into Earth orbit where its launch vehicle burns
+out at an altitude of 250 km.  At burnout the satellite's velocity is
+7,900 m/s with the zenith angle equal to 89 degrees.  Calculate the
+satellite's altitude at perigee and apogee.
+
+---------------------------------------------------------------------------
+PROBLEM 9
+
+Calculate the eccentricity of the orbit for the satellite in problem 8.
+
+---------------------------------------------------------------------------
+PROBLEM 10
+
+Calculate the angle θ from perigee point to launch point for the satellite
+in problem 8.
+
+---------------------------------------------------------------------------
+PROBLEM 11
+
+Calculate the semi-major axis of the orbit for the satellite in problem 8.
+
+---------------------------------------------------------------------------
+PROBLEM 4.12
+
+For the satellite in problem 8, burnout occurs 2000-10-20, 15:00 UT.  The
+geocentric coordinates at burnout are 32o N latitude, 60o W longitude,
+and the azimuth heading is 86o.  Calculate the orbit's inclination,
+argument of perigee, and longitude of ascending node.
+

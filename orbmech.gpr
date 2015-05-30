@@ -1,0 +1,14 @@
+project OrbMech is
+
+   for Source_Dirs use (".", "orbmech");
+   for Main use ("problem1",
+                 "problem2",
+                 "problem3",
+                 "problem4",
+                 "problem5");
+
+   package Problem1 is
+      for Executable ("problem1.adb") use "problem1";
+   end Problem1;
+
+end OrbMech;

@@ -1,0 +1,6 @@
+*.ali
+*.o
+problem?
+problem??
+b_*
+.*.sw?
